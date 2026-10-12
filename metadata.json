@@ -1,0 +1,8 @@
+{
+  "name": "Linha Têxtil - Controle de Ordens de Produção",
+  "description": "Landing page de alta conversão do Linha Têxtil: organize suas ordens de produção têxtil, acompanhe etapas produtivas e facilite movimentações com QR Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
